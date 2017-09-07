@@ -30,7 +30,7 @@ requirements:
         - six
         - xraylib    # [not win]
         - scikit-image
-        - lmfit 0.8.3
+        - lmfit 0.9.7
 
 test:
     imports:
